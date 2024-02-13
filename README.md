@@ -5,8 +5,8 @@
 :woman_technologist: About Me :
 
 - 👋 Hi, I’m Valentina Scalone
-- 👀 I’m interested in Web Design, Coding, Music and Gaming
-- 🌱 I’m currently learning Javascript and React @ Coding BootCamp
+- 👀 I’m interested in Web Design, Coding, Music, Gaming and Cooking
+- 🌱 I’m currently learning Javascript, React, Next and Node.js @ Coding BootCamp
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/valentina-scalone-73148090/" title="Linkedin">Linkedin</a> 
 
 <br />
