@@ -30,6 +30,7 @@
    <img alt="Next" src="https://img.shields.io/badge/Next.js-000000?logo=react&logoColor=white&style=for-the-badge" />
    <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
    <img alt="Express" src="https://img.shields.io/badge/Express.js-cccccc?logo=express.js&logoColor=white&style=for-the-badge" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-00ED64?logo=MongoDB&logoColor=white&style=for-the-badge" />
  </div>
 
  <br />
