@@ -48,7 +48,7 @@
 </div>
 
 
-<br /><br />
+<br />
 
 <div id="Stats" align="center">
   <p>:fire: My Stats:</p>
