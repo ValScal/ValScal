@@ -16,7 +16,7 @@
   <p>:speech_balloon: My Super Powers:</p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />  
-  <img alt="Scss" src="https://img.shields.io/badge/SASS-c76494?logo=css3&logoColor=white&style=for-the-badge" />  
+  <img alt="Scss" src="https://img.shields.io/badge/SASS-c76494?logo=sass&logoColor=white&style=for-the-badge" />  
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
   <img alt="MDBootstrap" src="https://img.shields.io/badge/MDBootstrap-e3ebf7?logo=bootstrap&logoColor=white&style=for-the-badge" />
 </div>
